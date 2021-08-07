@@ -1,0 +1,14 @@
+{
+  "name": "burocrata-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DiegoPinto357/burocrata-bot.git",
+  "author": "Diego Pinto dos Santos",
+  "license": "MIT",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^8.2.0"
+  }
+}
