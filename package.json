@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "promise-poller": "^1.9.1",
     "puppeteer": "^10.2.0"
   },
   "prettier": {
